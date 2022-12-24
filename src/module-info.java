@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author kondu
- *
- */
-module Example {
-}
